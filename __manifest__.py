@@ -14,6 +14,8 @@
 
     'author': "sxf",
     'category': 'web',
+    'price': 50,
+    'currency':'EUR',
     'version': '10.0.0.1',
     'depends': ['web','base'],
     'data': [
