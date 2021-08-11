@@ -21,4 +21,6 @@
     'data': [
         'views/fixed_header_first_column.xml',
     ],
+    'images': ['static/description/banner.jpg'],
+
 }
